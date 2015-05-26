@@ -1,9 +1,9 @@
 DSCI6004: Natural Language Processing
 ===============================================================
-**Instructor:**  Alessandro Gagliardi : alessandro@galvanize.com  
+**Instructors:**  [Alessandro Gagliardi](mailto:alessandro@galvanize.com) & [Michael Tamir](mailto:mtamir@galvanize.com)
+
 **Class Location:** 44 Tehama St, 3rd Floor, gU Classroom  
-**Class Time:** As you wish -- _this is a "flipped" classroom_  
-**Lab Time:** 2:00 - 4:00 PM, M-T-W-Th  
+**Class Time:** 2:00PM to 3:20PM M-T-W-Th (Video Lectures to be viewed before class)  
 **Office Hours:** Friday by Appointment  
 
 - [Description of the Course](#description-of-the-course)
@@ -29,7 +29,7 @@ A curiosity about how to computationally approach natural language.
 ## Structure of the Class
 This course will employ a ["flipped" classroom](http://en.wikipedia.org/wiki/Flipped_classroom) model. What that means is that lectures will take place *outside* of class, via the MOOC course developed by Dan Jurafsky and Christopher Manning. Classroom time will be devoted to resolving questions that have arisen from the lectures and/or readings and, primarily, for doing project work. A typical class will follow this structure:
 
-1. Questions and Review
+1. Lecture Checks for Understanding and Review
 2. iRAT (individual readiness assessment test)
 3. tRAT (team readiness assessment test)
 4. Review RAT
@@ -48,21 +48,23 @@ The RATs are meant to assess the first three levels of [Bloom's Taxonomy](http:/
 
 #### Presentations
 At the end of the time period, pairs will stop their work and present their solution(s) to the rest of the class. The purpose of this is two-fold.  
-1. All students will learn from all exercises, whether or not they had time to complete them in class.
+1. All students will learn from all exercises, whether or not they had time to complete them in class.  
 2. Students will get to see alternative approaches to the exericeses they did complete.
 
 #### Peer Evaluation
-In addition to the iRATs and tRATs, your grade will depend upon peer evaluation. You will evaluate the other member of your pair, that he maintained his or her role (as driver or nagigator) and was helpful. You will also evaluate the other groups on their presentations. Did you understand what they did? In order to protect anonymity, peer feedback will be returned only every two weeks.
+In addition to the iRATs and tRATs, your grade will depend upon peer evaluation. You will evaluate the other member of your pair, that he maintained his or her role (as driver or nagigator) and was helpful. You will also evaluate the other groups on their presentations. Did you understand what they did? Peer evaluations will be rated 0-4 points. For group evaluations, you may give no more than one (1) 4 point score per class. In order to protect anonymity, peer feedback will be returned only every two weeks. 
+
+Find the Peer Evaluation / Exit Ticket here: [http://tinyurl.com/exit6004](http://tinyurl.com/exit6004)
 
 Grading
 ----------------------
 | Portion | Points | Number | Total |Percentage |
-|:-------:|:------:|:------:|:-----:|:------:| 
-| iRAT    |      8 |     28 |   224 |    22% |
-| tRAT    |      8 |     28 |   224 |    22% |
-| Pair Eval  |   8 |     28 |   224 |    22% |
-| Group Eval |   8 |     28 |   224 |    22% |
-| Final Project | 104 | 1 | 104 |  10% |
+|:-------:|:------:|:------:|:-----:|:---------:| 
+| iRAT    |      8 |     25 |   200 |       20% |
+| tRAT    |      8 |     25 |   200 |       20% |
+| Pair Eval  |   8 |     25 |   200 |       20% |
+| Group Eval |   8 |     25 |   200 |       20% |
+| Final Project |  200 |  1 |   200 |       20% |
 
 The grading system is designed such that if you do the homework and you participate in class, you should be able to earn an A. 
 
@@ -78,6 +80,7 @@ Supplemental Resources
 
 Relevant Articles 
 ----------------------
+(this list will grow)
 - [The Automatic Creation of Literature Abstracts](http://courses.ischool.berkeley.edu/i256/f06/papers/luhn58.pdf)
 - [Searching with Style: Authorship Attribution in Classic Literature](http://www.crpit.com/confpapers/CRPITV62Zhao.pdf)
 
@@ -103,7 +106,7 @@ Students who are dishonest in any class assignment or exam will receive an "F" i
 
 Tentative Schedule
 ------------------
-1. [Basic Text Processing](https://github.com/zipfian/DSCI6004-student/wiki/Week-1)
+1. [Basic Text Processing](https://github.com/zipfian/DSCI6004/wiki/Week-1)
     1. Accessing Text Corpora and Lexical Resources
     2. Regular Expressions
     3. Processing Raw Text
