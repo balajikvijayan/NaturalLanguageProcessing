@@ -38,6 +38,7 @@
 
 #### For Week 3:
 - Before Monday:
+    + Read [chapter 5](http://www.nltk.org/book_1ed/ch05.html) of _Natural Language Processing with Python_
     + Watch **Language Modeling**:
         * [Introduction to N-grams](https://class.coursera.org/nlp/lecture/14)
         * [Estimating N-gram Probabilities](https://class.coursera.org/nlp/lecture/128)
@@ -47,5 +48,3 @@
         * [Interpolation](https://class.coursera.org/nlp/lecture/19)
         * [Good-Turing Smoothing](https://class.coursera.org/nlp/lecture/32)
         * [Kneser-Ney Smoothing](https://class.coursera.org/nlp/lecture/20)
-- Before Thursday:
-    + Read [chapter 5](http://www.nltk.org/book_1ed/ch05.html) of _Natural Language Processing with Python_
