@@ -3,8 +3,8 @@ DSCI6004: Natural Language Processing
 **Instructors:**  [Alessandro Gagliardi](mailto:alessandro@galvanize.com) & [Michael Tamir](mailto:mtamir@galvanize.com)
 
 **Class Location:** 44 Tehama St, 3rd Floor, gU Classroom  
-**Class Time:** 2:00PM to 3:20PM M-T-W-Th (Video Lectures to be viewed before class)  
-**Office Hours:** Friday by Appointment  
+**Class Time:** 2:00PM to 3:20PM M-T-~~W~~-Th-**F** (Video Lectures to be viewed before class)  
+**Office Hours:** ~~Friday~~ *Wednesday* by Appointment  
 
 - [Description of the Course](#description-of-the-course)
 - [Structure of the Class](#structure-of-the-class)
@@ -77,12 +77,17 @@ Supplemental Resources
 ----------------------
 - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html) by Manning, Raghavan, and Schütze
 - [Mining the Social Web](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) by Matthew A. Russell
+- [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) by Peter Norvig (2007)
+- [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
 
 Relevant Articles 
 ----------------------
 (this list will grow)
 - [The Automatic Creation of Literature Abstracts](http://courses.ischool.berkeley.edu/i256/f06/papers/luhn58.pdf)
+- [Normalization of non-standard words](http://www.cs.toronto.edu/~gpenn/csc2518/sproatetal01.pdf)
+- [Predicting the Semantic Orientation of Adjectives](http://www.aclweb.org/anthology/P97-1023)
 - [Searching with Style: Authorship Attribution in Classic Literature](http://www.crpit.com/confpapers/CRPITV62Zhao.pdf)
+- [Part-of-Speech Tagging and Partial Parsing](http://web5.cs.columbia.edu/~julia/courses/old/cs4705-04/abney96.pdf)
 
 Course Requirements
 --------------------------------------------------------------  
@@ -106,17 +111,17 @@ Students who are dishonest in any class assignment or exam will receive an "F" i
 
 Tentative Schedule
 ------------------
-1. [Basic Text Processing](https://github.com/zipfian/DSCI6004/wiki/Week-1)
+1. [Basic Text Processing](Week-1)
     1. Accessing Text Corpora and Lexical Resources
     2. Regular Expressions
     3. Processing Raw Text
     4. Writing Structured Programs
-2. Information Retrieval
+2. [Information Retrieval](Week-2)
     1. Edit Distance
     2. Web Scraping
     3. Information Retrieval
     4. Ranked Information Retrieval
-3. Language Modeling
+3. [Language Modeling](Week-3)
     1. Language Modeling
     2. Spelling Correction
     3. Categorizing and Tagging Words
