@@ -125,12 +125,12 @@ Tentative Schedule
     1. Language Modeling
     2. Spelling Correction
     3. Categorizing and Tagging Words
-    4. Topic Modeling
+    4. Midterm Review
 4. Text Classification
     1. Learning to Classify Text
     2. Sentiment Analysis
-    3. Discriminative classifiers: Maximum Entropy classifiers
-    4. Midterm Review
+    3. Topic Modeling
+    4. Discriminative classifiers: Maximum Entropy classifiers
 5. Extracting Information from Text
     1. Named Entity Recognition
     2. Relation Extraction

@@ -21,9 +21,9 @@ class Sentence:
     """Returns a list of strings with the sentence containing all corrections."""
     correctSentence = []
     for datum in self.data:
-      if datum.hasError():
-        correctSentence.append(datum.error)
-      else:
+      # if datum.hasError():
+      #   correctSentence.append(datum.error)
+      # else:
         correctSentence.append(datum.word)
     return correctSentence
 
