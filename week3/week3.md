@@ -30,7 +30,7 @@
             * [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
             * [Part-of-Speech Tagging and Partial Parsing](http://web5.cs.columbia.edu/~julia/courses/old/cs4705-04/abney96.pdf) by Steven Abney (1996)
 3. Wednesday 6/10: **POS Tagging**
-4. Thursday 6/11 – *Guest Instructor*: Mike Tamir – **Topic Modeling**
+4. Thursday 6/11: **Midterm Review**
 
 #### For Week 4:
 - Before Monday:
