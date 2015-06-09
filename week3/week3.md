@@ -19,7 +19,7 @@
             * [The Noisy Channel Model of Spelling](https://class.coursera.org/nlp/lecture/22)
             * [Real-Word Spelling Correction](https://class.coursera.org/nlp/lecture/23)
             * [State of the Art Systems](https://class.coursera.org/nlp/lecture/24)
-        + Optional: read [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) by Peter Norvig (2007)
+        + Read: [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) by Peter Norvig (2007)
 2. Tuesday 6/9: **Spelling Correction**
     - Before Wednesday:
         + Finish [Chapter 5](http://www.nltk.org/book_1ed/ch05.html) of _Natural Language Processing with Python_
