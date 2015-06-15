@@ -126,11 +126,11 @@ Tentative Schedule
     2. Spelling Correction
     3. Categorizing and Tagging Words
     4. Midterm Review
-4. Text Classification
+4. [Text Classification](Week-4)
     1. Learning to Classify Text
     2. Sentiment Analysis
     3. Topic Modeling
-    4. Discriminative classifiers: Maximum Entropy classifiers
+    4. Discriminative Classifiers
 5. Extracting Information from Text
     1. Named Entity Recognition
     2. Relation Extraction
