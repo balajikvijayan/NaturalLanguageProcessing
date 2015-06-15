@@ -1,16 +1,15 @@
-#### Week 4:
-- Before Monday:
-    + Read [chapter 6](http://www.nltk.org/book_1ed/ch06.html) of _Natural Language Processing with Python_
-    + Watch **Text Classification**:
-        * [What is Text Classification](https://class.coursera.org/nlp/lecture/36)
-        * [Naive Bayes](https://class.coursera.org/nlp/lecture/37)
-        * [Formalizing the Naive Bayes Classifier](https://class.coursera.org/nlp/lecture/25)
-        * [Naive Bayes: Learning](https://class.coursera.org/nlp/lecture/26)
-        * [Naive Bayes: Relationship to Language Modeling](https://class.coursera.org/nlp/lecture/27)
-        * [Multinomial Naive Bayes: A Worked Example](https://class.coursera.org/nlp/lecture/28)
-        * [Precision, Recall, and the F measure](https://class.coursera.org/nlp/lecture/142)
-        * [Text Classification: Evaluation](https://class.coursera.org/nlp/lecture/143)
-        * [Practical Issues in Text Classification](https://class.coursera.org/nlp/lecture/29)
+#### Before Week 4:
+- Read [chapter 6](http://www.nltk.org/book_1ed/ch06.html) of _Natural Language Processing with Python_
+- Watch **Text Classification**:
+    + [What is Text Classification](https://class.coursera.org/nlp/lecture/36)
+    + [Naive Bayes](https://class.coursera.org/nlp/lecture/37)
+    + [Formalizing the Naive Bayes Classifier](https://class.coursera.org/nlp/lecture/25)
+    + [Naive Bayes: Learning](https://class.coursera.org/nlp/lecture/26)
+    + [Naive Bayes: Relationship to Language Modeling](https://class.coursera.org/nlp/lecture/27)
+    + [Multinomial Naive Bayes: A Worked Example](https://class.coursera.org/nlp/lecture/28)
+    + [Precision, Recall, and the F measure](https://class.coursera.org/nlp/lecture/142)
+    + [Text Classification: Evaluation](https://class.coursera.org/nlp/lecture/143)
+    + [Practical Issues in Text Classification](https://class.coursera.org/nlp/lecture/29)  
 
 1. Monday 6/15: **Text Classification**
     - Before Tuesday:
@@ -39,11 +38,10 @@
             * [Maximizing the Likelihood](https://class.coursera.org/nlp/lecture/134)
 4. Friday 6/19: **Logistic Regression (a.k.a. MaxEnt)**
 
-#### For Week 5:
-- Before Monday:
-    + Read [chapter 7](http://www.nltk.org/book_1ed/ch07.html) of _Natural Language Processing with Python_
-    + Watch **Information Extraction and Sequence Modeling**:
-        * [Introduction to Information Extraction](https://class.coursera.org/nlp/lecture/61)
-        * [Evaluation of Named Entity Recognition](https://class.coursera.org/nlp/lecture/132)
-        * [Sequence Models for Named Entity Recognition](https://class.coursera.org/nlp/lecture/59)
-        * [Maximum Entropy Sequence Models](https://class.coursera.org/nlp/lecture/133)
+#### Before Week 5:
+- Read [chapter 7](http://www.nltk.org/book_1ed/ch07.html) of _Natural Language Processing with Python_
+- Watch **Information Extraction and Sequence Modeling**:
+    + [Introduction to Information Extraction](https://class.coursera.org/nlp/lecture/61)
+    + [Evaluation of Named Entity Recognition](https://class.coursera.org/nlp/lecture/132)
+    + [Sequence Models for Named Entity Recognition](https://class.coursera.org/nlp/lecture/59)
+    + [Maximum Entropy Sequence Models](https://class.coursera.org/nlp/lecture/133)

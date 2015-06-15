@@ -12,14 +12,16 @@ Read the [Preface](http://www.nltk.org/book_1ed/ch00.html) and [Chapter 1](http:
         - Visit [regular-expressions.info](http://www.regular-expressions.info/)
 2. Wednesday 5/27: **Regular Expressions**
     - Before Thursday:
-        - Finish [Chapter 3](http://www.nltk.org/book_1ed/ch03.html) of _Natural Language Processing with Python_
-        - Watch:
+        * Finish [Chapter 3](http://www.nltk.org/book_1ed/ch03.html) of _Natural Language Processing with Python_
+        * Watch:
             - [Word Tokenization](https://class.coursera.org/nlp/lecture/127)
             - [Word Normalization and Stemming](https://class.coursera.org/nlp/lecture/126)
             - [Sentence Segmentation](https://class.coursera.org/nlp/lecture/5)
-        - Supplemental reading: 
+        * Supplemental reading: 
             - [MR+S Chapter 2: Term vocabulary and postings lists](http://nlp.stanford.edu/IR-book/pdf/02voc.pdf)
             - [Sproat *et al.* 2001. Normalization of non-standard words](http://www.cs.toronto.edu/~gpenn/csc2518/sproatetal01.pdf)
+        *  Resources
+            - [RegExr](http://regexr.com/)
 3. Thursday 5/28: **Basic Text Processing**
     - Before Friday, read: [Chapter 4](http://www.nltk.org/book_1ed/ch04.html) of _Natural Language Processing with Python_
     - Supplemental 
