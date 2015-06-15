@@ -26,9 +26,6 @@
             * [On the Negativity of Negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf)
 2. Tuesday 6/16: **Sentiment Analysis**
     - Before Thursday:
-        + Watch **[Topic Modeling](https://www.dropbox.com/s/tpgede8s57fvmxp/nmf-video.mov)**
-3. Thursday 6/18: **Topic Modeling and NMF**
-    - Before Friday:
         + Watch **Discriminative Classifiers**
             * [Generative vs. Discriminative Models](https://class.coursera.org/nlp/lecture/38)
             * [Making features from text for discriminative NLP models](https://class.coursera.org/nlp/lecture/48)
@@ -36,7 +33,10 @@
             * [Building a Maxent Model: The Nuts and Bolts](https://class.coursera.org/nlp/lecture/53)
             * [Generative vs. Discriminative models: The problem of overcounting evidence](https://class.coursera.org/nlp/lecture/131)
             * [Maximizing the Likelihood](https://class.coursera.org/nlp/lecture/134)
-4. Friday 6/19: **Logistic Regression (a.k.a. MaxEnt)**
+4. Thursday 6/18: **Logistic Regression (a.k.a. MaxEnt)**
+    - Before Friday:
+        + Watch **[Topic Modeling](https://www.dropbox.com/s/tpgede8s57fvmxp/nmf-video.mov)**
+3. Friday 6/19: **Topic Modeling and NMF**
 
 #### Before Week 5:
 - Read [chapter 7](http://www.nltk.org/book_1ed/ch07.html) of _Natural Language Processing with Python_

@@ -129,8 +129,8 @@ Tentative Schedule
 4. [Text Classification](Week-4)
     1. Learning to Classify Text
     2. Sentiment Analysis
-    3. Topic Modeling
-    4. Discriminative Classifiers
+    3. Discriminative Classifiers
+    4. Topic Modeling
 5. Extracting Information from Text
     1. Named Entity Recognition
     2. Relation Extraction
