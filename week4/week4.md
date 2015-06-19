@@ -1,15 +1,16 @@
-#### Before Week 4:
-- Read [chapter 6](http://www.nltk.org/book_1ed/ch06.html) of _Natural Language Processing with Python_
-- Watch **Text Classification**:
-    + [What is Text Classification](https://class.coursera.org/nlp/lecture/36)
-    + [Naive Bayes](https://class.coursera.org/nlp/lecture/37)
-    + [Formalizing the Naive Bayes Classifier](https://class.coursera.org/nlp/lecture/25)
-    + [Naive Bayes: Learning](https://class.coursera.org/nlp/lecture/26)
-    + [Naive Bayes: Relationship to Language Modeling](https://class.coursera.org/nlp/lecture/27)
-    + [Multinomial Naive Bayes: A Worked Example](https://class.coursera.org/nlp/lecture/28)
-    + [Precision, Recall, and the F measure](https://class.coursera.org/nlp/lecture/142)
-    + [Text Classification: Evaluation](https://class.coursera.org/nlp/lecture/143)
-    + [Practical Issues in Text Classification](https://class.coursera.org/nlp/lecture/29)  
+#### Week 4:
+- Before Monday:
+    + Read [chapter 6](http://www.nltk.org/book_1ed/ch06.html) of _Natural Language Processing with Python_
+    + Watch **Text Classification**:
+        * [What is Text Classification](https://class.coursera.org/nlp/lecture/36)
+        * [Naive Bayes](https://class.coursera.org/nlp/lecture/37)
+        * [Formalizing the Naive Bayes Classifier](https://class.coursera.org/nlp/lecture/25)
+        * [Naive Bayes: Learning](https://class.coursera.org/nlp/lecture/26)
+        * [Naive Bayes: Relationship to Language Modeling](https://class.coursera.org/nlp/lecture/27)
+        * [Multinomial Naive Bayes: A Worked Example](https://class.coursera.org/nlp/lecture/28)
+        * [Precision, Recall, and the F measure](https://class.coursera.org/nlp/lecture/142)
+        * [Text Classification: Evaluation](https://class.coursera.org/nlp/lecture/143)
+        * [Practical Issues in Text Classification](https://class.coursera.org/nlp/lecture/29)
 
 1. Monday 6/15: **Text Classification**
     - Before Tuesday:
@@ -38,10 +39,18 @@
         + Watch **[Topic Modeling](https://www.dropbox.com/s/tpgede8s57fvmxp/nmf-video.mov)**
 3. Friday 6/19: **Topic Modeling and NMF**
 
-#### Before Week 5:
-- Read [chapter 7](http://www.nltk.org/book_1ed/ch07.html) of _Natural Language Processing with Python_
-- Watch **Information Extraction and Sequence Modeling**:
-    + [Introduction to Information Extraction](https://class.coursera.org/nlp/lecture/61)
-    + [Evaluation of Named Entity Recognition](https://class.coursera.org/nlp/lecture/132)
-    + [Sequence Models for Named Entity Recognition](https://class.coursera.org/nlp/lecture/59)
-    + [Maximum Entropy Sequence Models](https://class.coursera.org/nlp/lecture/133)
+#### For Week 5:
+- Before Monday:
+    * Prepare data for Monday's Lab:
+        1. Scrape at least 1000 articles (preferably more) from NYT
+        2. Tokenize and tag them and store the results in Mongo (along with the original text)
+        3. Optional (but highly recommended) rerun section classification and topic modeling on these data. 
+    * Read [chapter 7](http://www.nltk.org/book_1ed/ch07.html) of _Natural Language Processing with Python_
+    * Watch **Information Extraction and Sequence Modeling**:
+        - [Introduction to Information Extraction](https://class.coursera.org/nlp/lecture/61)
+        - [Evaluation of Named Entity Recognition](https://class.coursera.org/nlp/lecture/132)
+        - [Sequence Models for Named Entity Recognition](https://class.coursera.org/nlp/lecture/59)
+        - [Maximum Entropy Sequence Models](https://class.coursera.org/nlp/lecture/133)
+    * Optional: 
+        - [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
+        - [ACE (Automatic Content Extraction) English Annotation Guidelines for Entities](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-entities-guidelines-v6.6.pdf)
