@@ -1,5 +1,5 @@
 #### Before Week 5:
-+ Prepare data for Monday's Lab:
++ Prepare data for Tuesday's Lab:
     1. Get at least 1000 articles from api.nytimes.com
     2. Scrape these articles from the web and store the content in Mongo (hint: `soup.find_all('p', itemprop='articleBody’)`)
     3. Tokenize and tag them and store the results in Mongo (along with the original text)
