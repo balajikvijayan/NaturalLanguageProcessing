@@ -58,13 +58,13 @@ Find the Peer Evaluation / Exit Ticket here: [http://tinyurl.com/exit6004](http:
 
 Grading
 ----------------------
-| Portion | Points | Number | Total |Percentage |
-|:-------:|:------:|:------:|:-----:|:---------:| 
-| iRAT    |      8 |     25 |   200 |       20% |
-| tRAT    |      8 |     25 |   200 |       20% |
-| Pair Eval  |   8 |     25 |   200 |       20% |
-| Group Eval |   8 |     25 |   200 |       20% |
-| Final Project |  200 |  1 |   200 |       20% |
+| Portion | Points | Count | Total |Percentage |
+|:-------:|:------:|:-----:|:-----:|:---------:| 
+| iRAT    |      8 |    25 |   200 |       20% |
+| tRAT    |      8 |    25 |   200 |       20% |
+| Pair Eval  |   8 |    25 |   200 |       20% |
+| Group Eval |   8 |    25 |   200 |       20% |
+| Final Project | 200 |  1 |   200 |       20% |
 
 The grading system is designed such that if you do the homework and you participate in class, you should be able to earn an A. 
 
@@ -79,6 +79,9 @@ Supplemental Resources
 - [Mining the Social Web](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) by Matthew A. Russell
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) by Peter Norvig (2007)
 - [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
+- [General Inquirer](http://www.wjh.harvard.edu/~inquirer)
+- [Christopher Potts' Sentiment Tutorial](http://sentiment.christopherpotts.net/)
+- [Linguistic Data Consortium](https://www.ldc.upenn.edu/)
 
 Relevant Articles 
 ----------------------
@@ -88,6 +91,8 @@ Relevant Articles
 - [Predicting the Semantic Orientation of Adjectives](http://www.aclweb.org/anthology/P97-1023)
 - [Searching with Style: Authorship Attribution in Classic Literature](http://www.crpit.com/confpapers/CRPITV62Zhao.pdf)
 - [Part-of-Speech Tagging and Partial Parsing](http://web5.cs.columbia.edu/~julia/courses/old/cs4705-04/abney96.pdf)
+- [Thumbs up? Sentiment Classification using Machine Learning Techniques](http://www.cs.cornell.edu/home/llee/papers/sentiment.pdf)
+- [Automatic Acquisition of Hyponyms from Large Text Corpora](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/C/C92/C92-2082.pdf)
 
 Course Requirements
 --------------------------------------------------------------  
@@ -131,10 +136,10 @@ Tentative Schedule
     2. Sentiment Analysis
     3. Discriminative Classifiers
     4. Topic Modeling
-5. Extracting Information from Text
+5. [Extracting Information from Text](Week-5)
     1. Named Entity Recognition
-    2. Relation Extraction
-    3. Advanced Maximum Entropy Models
+    2. Advanced Maximum Entropy Models
+    3. Relation Extraction
     4. Parsing Introduction
 6. Analyzing Sentence Structure
     1. Probabilistic Parsing
