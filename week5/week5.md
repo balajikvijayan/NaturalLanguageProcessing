@@ -22,7 +22,7 @@
             - [Feature Overlap-Feature Interaction](https://class.coursera.org/nlp/lecture/135)
             - [Conditional Maxent Models for Classification](https://class.coursera.org/nlp/lecture/147)
             - [Smoothing-Regularization-Priors for Maxent Models](https://class.coursera.org/nlp/lecture/136)
-3. Thursday 6/25: **Advanced Maximum Entropy Models**
+2. Tuesday 6/23: **Advanced Maximum Entropy Models**
     - Before Class:
         - Watch:
             - [What is Relation Extraction?](https://class.coursera.org/nlp/lecture/138)
@@ -32,18 +32,19 @@
         + Optional: 
             * [Automatic Acquisition of Hyponyms from Large Text Corpora](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/C/C92/C92-2082.pdf)
             * [Extracting Patterns and Relations from the World Wide Web](http://ilpubs.stanford.edu:8090/421/1/1999-65.pdf)
-2. Tuesday 6/23: **Relation Extraction**
+3. Thursday 6/25: **Relation Extraction**
     - Before Class:
         - Watch:
             - [Syntactic Structure: Constituency vs Dependency](https://class.coursera.org/nlp/lecture/161)
             - [Empirical-Data-Driven Approach to Parsing](https://class.coursera.org/nlp/lecture/162)
             - [The Exponential Problem in Parsing](https://class.coursera.org/nlp/lecture/163)
+        + Read [chapter 8 extras](http://www.nltk.org/book_1ed/ch08-extras.html)
 4. Friday 6/26: **Parsing Introduction**
 
 #### For Week 6:
 - Before Monday:
     + Read [chapter 8](http://www.nltk.org/book_1ed/ch08.html) of _Natural Language Processing with Python_
-    + Watch **Information Extraction and Sequence Modeling**:
+    + Watch **Probabilistic Parsing**:
         * [CFGs and PCFGs](https://class.coursera.org/nlp/lecture/165)
         * [Grammar Transforms](https://class.coursera.org/nlp/lecture/166)
         * [CKY Parsing](https://class.coursera.org/nlp/lecture/167)
