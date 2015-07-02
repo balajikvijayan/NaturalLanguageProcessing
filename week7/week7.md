@@ -6,6 +6,7 @@
         - [Passage Retrieval and Answer Extraction](https://class.coursera.org/nlp/lecture/157)
         - [Using Knowledge in QA](https://class.coursera.org/nlp/lecture/158)
         - [Advanced: Answering Complex Questions](https://class.coursera.org/nlp/lecture/159)
+
 1. Monday 7/6: **Question Answering** 
    - Before Tuesday's Class:
        - Read Sections 1 and 2 of [Continuous space language models](https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sdarticle.pdf)
