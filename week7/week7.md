@@ -22,5 +22,5 @@
             - [Summarizing Multiple Documents](https://class.coursera.org/nlp/lecture/194)
 3. Thursday 7/9: **Summarization**
     - Before Friday's Class:
-        - Read [chapter 10](http://www.nltk.org/book_1ed/ch10.html) of _Natural Language Processing with Python_
+        - Read [chapter 11](http://www.nltk.org/book_1ed/ch11.html) of _Natural Language Processing with Python_
 4. Friday 7/10: **Managing Linguistic Data**
