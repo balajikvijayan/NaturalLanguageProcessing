@@ -1,6 +1,6 @@
 DSCI6004: Natural Language Processing
 ===============================================================
-**Instructors:**  [Alessandro Gagliardi](mailto:alessandro@galvanize.com) & [Michael Tamir](mailto:mtamir@galvanize.com)
+**Instructors:**  [Alessandro Gagliardi](mailto:alessandro@galvanize.com) & [Michael Tamir](mailto:mtamir@galvanize.com) & [Brian Spiering](mailto:brian.spiering@galvanize.com)
 
 **Class Location:** 44 Tehama St, 3rd Floor, gU Classroom  
 **Class Time:** 2:00PM to 3:20PM M-T-~~W~~-Th-**F** (Video Lectures to be viewed before class)  
@@ -148,7 +148,7 @@ Tentative Schedule
     4. Semantics
 7. Analyzing the Meaning of Sentences
     1. Question Answering
-    2. Summarization
-    3. Mining Web Pages
+    2. Word2Vec
+    3. Summarization
     4. Managing Linguistic Data
 8. Final Review and Presentations

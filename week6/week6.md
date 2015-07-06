@@ -32,6 +32,3 @@
             * [Word Similarity: Distributional Similarity I](https://class.coursera.org/nlp/lecture/153)
             * [Word Similarity: Distributional Similarity II](https://class.coursera.org/nlp/lecture/154)
 4. Thursday 7/2: **Semantics**
-
-#### Before [Week 7](Week-7):
-- Read [chapter 10](http://www.nltk.org/book_1ed/ch10.html) of _Natural Language Processing with Python_
