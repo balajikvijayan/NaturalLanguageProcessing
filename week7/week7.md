@@ -15,7 +15,6 @@
 	        - [Evaluating Summaries: ROUGE](https://class.coursera.org/nlp/lecture/193)
 	        - [Summarizing Multiple Documents](https://class.coursera.org/nlp/lecture/194)
 
-       
 2. Tuesday 7/7: **Summarization** 
     - Before Thursday's Class:
         - Read Sections 1 and 2 of [Continuous space language models](https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sdarticle.pdf)
